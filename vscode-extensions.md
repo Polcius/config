@@ -1,0 +1,10 @@
+- Bracket Pair Colorizer
+- ESLint
+- GitLens
+- indent-rainbow
+- Live Server
+- Material Icon Theme
+- Night Owl
+- npm
+- Prettier
+- TODO Highlight
